@@ -1,0 +1,2 @@
+# easyjson
+Easy json db
